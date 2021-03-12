@@ -1,5 +1,5 @@
 # The University of Alabama's Cyber Security Club
-Welcome to the Crimson Defense GitHub for Crimson Cyber Defense club members and individuals interested in learning more about Cyber Security!
+Welcome to the Crimson Defense GitHub for Crimson Defense Cyber Security Club members and individuals interested in learning more about Cyber Security!
 Here you will find everything you need when it comes to learning more about Cyber Security. There is information and resources for beginners up to advanced individuals who are looking to learn more and advance their skills in Cyber Security! Please make sure you carefully read all READMEs in every repository as they all contain important information that could help with finding certain resources and getting things set up properly!<br>
 <br>
 
