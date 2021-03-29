@@ -1,3 +1,4 @@
+# Stephen
 # takes in a string in all caps and prints every rotation for it 
   
 text = input("Enter string in all caps for rot: ")

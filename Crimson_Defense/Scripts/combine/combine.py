@@ -1,3 +1,4 @@
+# Cole
 #Takes a file containing separate words and returns all permutations to further generate a wordlist from
 
 from itertools import permutations
